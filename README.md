@@ -1,4 +1,4 @@
-# vite-pwa-plugins-test
+# vite-pwa-plugins-reproduction
 
 A reprodution repository for https://github.com/vite-pwa/vite-plugin-pwa/issues/655.
 
